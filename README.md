@@ -4,7 +4,7 @@
   <i>Tableau dashboard analyzing 2022 Cyclistic bike-share ridership, segmenting member vs casual usage with interactive filters, KPI tiles, heatmaps and time-series charts for data-driven decision-making</i>
   <br><br>
   <a href="https://public.tableau.com/app/profile/jhermienpaul" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Dashboard-Tableau-blue?style=for-the-badge&logo=tableau" alt="View Dashboard on Tableau"/>
+    <img src="https://img.shields.io/badge/VIEW%20DASHBOARD%20ON%20TABLEAU-blue?style=for-the-badge&logo=tableau" alt="View Dashboard on Tableau"/>
   </a>
 </p>
 
